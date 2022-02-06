@@ -13,8 +13,8 @@ class AppColor{
   static Color homePagePlanColor = const Color(0xFFa2a2b1);
   static Color secondPageTopIconColor = const Color(0xFFb7bce8);
   static Color secondPageTitleColor = const Color(0xFFfefeff);
-  static Color secondPageContainerGradient1stColor = const Color(0xFFfefeff);
-  static Color secondPageContainerGradient2stColor = const Color(0xFFfefeff);
+  static Color secondPageContainerGradient1stColor = const Color(0xff7f99ea);
+  static Color secondPageContainerGradient2stColor = const Color(0xff445ca7);
   static Color loopColor = const Color(0xFF6d8dea);
   static Color setsColor = const Color(0xFF9999a9);
   static Color circuitsColor = const Color(0xFF2f2f51);

@@ -1,30 +1,30 @@
 [
   {
     "title": "Glutes",
-    "img": "assets/ex1.png"
+    "img": "assets/tom1.png"
   },
   {
     "title": "Abs",
-    "img": "assets/ex2.png"
+    "img": "assets/tom2.jpg"
   },
   {
     "title": "Legs",
-    "img": "assets/ex3.png"
+    "img": "assets/tom3.jpg"
   },
   {
     "title": "Arms",
-    "img": "assets/ex4.png"
+    "img": "assets/tom4.jpg"
   },
   {
     "title": "Legs",
-    "img": "assets/ex3.png"
+    "img": "assets/tom5.jpg"
   },
   {
     "title": "Arms",
-    "img": "assets/ex4.png"
+    "img": "assets/tom6.jpg"
   },
   {
     "title": "Arms",
-    "img": "assets/ex4.png"
+    "img": "assets/tom7.jpg"
   }
 ]
